@@ -1,0 +1,13 @@
+Uuid: 647dbf0dac704f24864ae4bfc09fb692
+ExtensionType: 2
+Name: CVSS v3.1 Calculator
+RepoName: cvss-v3-1-calculator
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Asif Minhas
+ShortDescription: Calculate the CVSS v3.1 score of vulnerabilities.
+EntryPoint: cvssv3.1.py
+BuildCommand: 
+SupportedProducts: Pro, Community
